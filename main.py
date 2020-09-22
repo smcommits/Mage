@@ -3,9 +3,6 @@ from button import*
 from cardGameLib import*
 import random
 
-#I am extremely sorry that you have to go through worst code of your life but I am still learning
-# and I hope to reach there someday. Enjoy!
-
 #creating a graphical window with width and height of 1280x720
 win = GraphWin('Cards', 1280, 720, autoflush=False)
 win.setCoords(0,0, 12,7) #setting the coordinates of the window from (0,0) to (12,7)
