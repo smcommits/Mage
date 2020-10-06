@@ -1,4 +1,62 @@
-# cardGame
-This repository contains a card game written in Python.
-The program will ask the user to select a card and then display the selected card
+# Card Guessing Game
+
+> This program displays different cards on the screen and then guessed the card that user selected.
+
+![screenshot](./Images/screenshot/mainScreen.png)
+(./Images/screenshot/selectionScreenshot.png)
+(./Images/screenshot/card.png)
+
+
+## Written in
+
+Python 
+
+- Code is encapsulated
+- Object oriented design with the help of classes and methods
+- Use of graphics library that uses tkinter
+- Use of PNG images to display the cards
+
+## Getting Started
+
+Open the terminal
+
+Step 1.
+```
+git clone https://github.com/smcommits/cardGame
+```
+Step 2.
+```
+cd cardGame
+```
+Step 3.
+```
+python3 main.py
+```
+
+#Note
+The user might have to install python if not already present
+The user might have to install the tkinter python library
+
+
+
+## Authors
+
+👤 **Anas Siddiqui**
+
+- GitHub: [Anas Siddiqui](https://github.com/smcommits)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- The [Graphics Library](./graphics.py) used in the project is provided in the book _PYTHON PROGRAMMING: AN INTRODUCTION TO COMPUTER SCIENCE, 3RD ED_ by John Zelle. 
 
