@@ -2,9 +2,7 @@
 
 > This program displays different cards on the screen and then guessed the card that user selected.
 
-![screenshot](./Images/screenshot/mainScreen.png)
-(./Images/screenshot/selectionScreenshot.png)
-(./Images/screenshot/card.png)
+![screenshot](./Images/screenshot/mainScreen.png)(./Images/screenshot/selectionScreenshot.png)(./Images/screenshot/card.png)
 
 
 ## Written in
@@ -33,7 +31,7 @@ Step 3.
 python3 main.py
 ```
 
-#Note
+# Note
 The user might have to install python if not already present
 The user might have to install the tkinter python library
 
