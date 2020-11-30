@@ -33,9 +33,7 @@ Step 3.
 python3 main.py
 ```
 
-# Note
-The user might have to install python if not already present
-The user might have to install the tkinter python library
+
 
 
 
